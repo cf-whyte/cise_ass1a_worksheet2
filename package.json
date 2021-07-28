@@ -4,7 +4,7 @@
 	"description": "Node Backend Boilerplate Probably",
 	"main": "server.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
+		"test": "echo \"Error: no test specified\" && exit 0",
 		"start": "nodemon backend/server.js"
 	},
 	"author": "cf-whyte",
